@@ -21,7 +21,7 @@
           {
             "version": "3.2.1",
             "date": "2022-09-11T22:00:00.0000000Z",
-            "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+            "localizedDescription": "granny.",
             "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
             "size": 80253902,
             "minOSVersion": "12.0",
@@ -30,7 +30,7 @@
         ],
         "version": "3.2.1",
         "versionDate": "2022-09-11T22:00:00.0000000Z",
-        "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+        "versionDescription": "granny.",
         "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
         "size": 80253902
       }
