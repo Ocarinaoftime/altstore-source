@@ -2,7 +2,7 @@
   "name": "Ocarina's Altstore Source",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://example.com/source_icon.png",
+  "iconURL": "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/main%20pfp.png",
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.ocarina.granny",
