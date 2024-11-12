@@ -16,13 +16,15 @@
       "developerName": "Dvloper",
       "subtitle": "Scary game",
       "localizedDescription": "Granny",
-      "iconURL": "https://example.com/myapp_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/icon.png",
       "tintColor": "#F54F32",
       "category": "utilities",
       "screenshots": [
-        "https://example.com/myapp_screenshot1.png",
-        "https://example.com/myapp_screenshot2.png",
-        "https://example.com/myapp_screenshot3.png"
+        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/1.webp",
+        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/2.webp",
+        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/3.webp",
+        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/4.webp",
+        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/5.webp"
       ],
       "versions": [],
       "appPermissions": {}
