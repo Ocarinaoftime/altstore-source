@@ -8,6 +8,43 @@
     "com.ocarina.granny",
     "com.ocarina.tallmanrun"
   ],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Granny",
+      "bundleIdentifier": "com.ocarina.granny",
+      "marketplaceID": "1323957120",
+      "developerName": "Dvloper",
+      "subtitle": "Scary game",
+      "localizedDescription": "Granny",
+      "iconURL": "https://example.com/myapp_icon.png",
+      "tintColor": "#F54F32",
+      "category": "utilities",
+      "screenshots": [
+        "https://example.com/myapp_screenshot1.png",
+        "https://example.com/myapp_screenshot2.png",
+        "https://example.com/myapp_screenshot3.png"
+      ],
+      "versions": [],
+      "appPermissions": {}
+    },
+    {
+      "name": "Tall Man Run",
+      "bundleIdentifier": "com.ocarina.tallmanrun",
+      "marketplaceID": "12345678",
+      "developerName": "Dvloper",
+      "subtitle": "Scary game",
+      "localizedDescription": "Granny",
+      "iconURL": "https://example.com/myapp_icon.png",
+      "tintColor": "#F54F32",
+      "category": "utilities",
+      "screenshots": [
+        "https://example.com/myapp_screenshot1.png",
+        "https://example.com/myapp_screenshot2.png",
+        "https://example.com/myapp_screenshot3.png"
+      ],
+      "versions": [],
+      "appPermissions": {}
+    }
+  ],
   "news": []
 }
