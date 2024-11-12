@@ -42,41 +42,6 @@
           "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you.\n\n*Please note that saying no will not remove ads!"
         }
       }
-    },
-    {
-      "name": "Granny",
-      "bundleIdentifier": "com.ocarina.granny",
-      "marketplaceID": "1323957120",
-      "developerName": "Dvloper",
-      "subtitle": "Scary game ok?",
-      "localizedDescription": "Granny",
-      "iconURL": "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/icon.png",
-      "tintColor": "#F54F32",
-      "category": "utilities",
-      "screenshots": [
-        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/1.webp",
-        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/2.webp",
-        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/3.webp",
-        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/4.webp",
-        "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/5.webp"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "60",
-          "date": "2024-11-12",
-          "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://github.com/Ocarinaoftime/altstore-source/releases/download/1.0.0/granny.ipa",
-          "size": 182003742,
-          "minOSVersion": "11.0",
-          "maxOSVersion": "16.3"
-        }
-      ],
-      "appPermissions": {
-        "privacy": {
-          "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you.\n\n*Please note that saying no will not remove ads!"
-        }
-      }
     }
   ],
   "news": []
