@@ -3,7 +3,7 @@
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/main%20pfp.png",
-  "tintColor": "#FF4FFF",
+  "tintColor": "#5555FF",
   "featuredApps": [
     "com.ocarina.granny"
   ],
@@ -15,7 +15,7 @@
       "subtitle": "Scary game ok ok?",
       "localizedDescription": "Granny",
       "iconURL": "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/icon.png",
-      "tintColor": "#F54F32",
+      "tintColor": "#555555",
       "category": "utilities",
       "screenshots": [
         "https://raw.githubusercontent.com/Ocarinaoftime/altstore-source/refs/heads/main/assets/Granny/1.webp",
